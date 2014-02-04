@@ -17,16 +17,16 @@ Update your local: git pull upstream master
 > I will try to outline, however poorly, the current situation and hopes for the gym.
 
 > 1. Problem of Giants Gym losing indexing, and even showing being closed on google.
-1. Would like to have a page for videos tied to a program for members.  They report once a week on progress and people can view each member and their progress, perhaps even commenting.
-1. Create simple program that allows staff and members to create video and upload at the gym.
-1. Tie this and other programs to a rewards program that can be tracked, each member can earn points towards prizes and stuff.
-1. Create a single page making it easy for members to share reviews.
-1. Find a way to drive more email traffic to our newsletter for building base.
-1. Target local businesses with a special program just for them
-1. Describe why our gym really is different.
-1. Tie facebook, website, newsletter, etc. together so we don't have to repeat entries.
-1. Rewrite copy for letters used in autoresponder
-1. Create (or use) some type of software for all follow up and service calls for members.
+2. Would like to have a page for videos tied to a program for members.  They report once a week on progress and people can view each member and their progress, perhaps even commenting.
+3. Create simple program that allows staff and members to create video and upload at the gym.
+4. Tie this and other programs to a rewards program that can be tracked, each member can earn points towards prizes and stuff.
+5. Create a single page making it easy for members to share reviews.
+6. Find a way to drive more email traffic to our newsletter for building base.
+7. Target local businesses with a special program just for them
+8. Describe why our gym really is different.
+9. Tie facebook, website, newsletter, etc. together so we don't have to repeat entries.
+10. Rewrite copy for letters used in autoresponder
+11. Create (or use) some type of software for all follow up and service calls for members.
 
 > Okay, I really don't know how to look at this with an unbiased eye.  I know we need drive traffic and make us "fun".
 
@@ -39,3 +39,34 @@ Update your local: git pull upstream master
 > I want the worth analysis to be a no brainer.
 
 3. 3c: Get a LAMP stack (MAMP/XAMPP/Vagrant) going on your local computers in preparation for Week 4.
+
+Questions: 
+1. Who will be updating the website, do you want to give admin rights to certain users? ie: one member for content editing, and one member for uploading videos, etc.
+
+2. Do you want to include representation of the local businesses involved in your special program as sponsors on the website?
+
+3. What makes your gym different? What sets you apart from the rest?
+
+4. Do you want this website to be accessable on mobile platforms? 
+
+5. What are the programs you wish to offer?
+
+6. Do you want to feature a specific member video and their progress on the home page? 
+
+7. How many members do you expect to upload videos for? 
+
+8. What type of content do you plan to provide and how much of it do you still need to get?
+
+9. Do you also wish to allow your users to share reviews via social media ie: Twitter, Facebook, G+
+
+10. What content do you want to associate with each video?
+
+11. How does your point system work?
+
+12. Do you want a contact form?
+
+13. Do you want an about page that includes "what sets us apart from others"?
+
+14. Can you show us some examples of websites that you like or of websites that represent a similar essance to that of your gym?
+
+15. Do you want to have a calendar that shows trainers available hours and when the trainer is reserved? 
